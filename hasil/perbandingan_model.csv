@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC,Acc (noisy),CV Accuracy
+SVM (RBF),1.0,1.0,1.0,1.0,1.0,1.0,0.938
+Random Forest,1.0,1.0,1.0,1.0,1.0,1.0,0.988
+k-NN (k=5),1.0,1.0,1.0,1.0,1.0,1.0,0.95
